@@ -1,3 +1,5 @@
+<img alt="GitHub License" src="https://img.shields.io/github/license/emiraleph/Block-Windows-Telemery-With-Firewall"> 
+
 ## Supported and tested on: Windows 10 and Windows 11 🪟
 
 ### ENGLISH:
