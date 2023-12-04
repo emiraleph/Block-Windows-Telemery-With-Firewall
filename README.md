@@ -1,4 +1,4 @@
-# Supported and tested on: Windows 10 and Windows 11 🪟
+## Supported and tested on: Windows 10 and Windows 11 🪟
 
 ### ENGLISH:
 
