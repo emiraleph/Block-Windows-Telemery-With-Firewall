@@ -10,6 +10,7 @@
 This script provides an effective solution to enhance user privacy by blocking Windows telemetry through the application of customized firewall rules. Aimed at empowering users with greater control over their system's data sharing capabilities, this tool mitigates unwanted telemetry transmissions.
 
 #### Features:
+- **No external programs required.**
 - **Effortless Blocking:** Achieve a comprehensive block on Windows telemetry effortlessly with a straightforward script execution.
 - **Custom Firewall Rules:** The script implements custom firewall rules designed to specifically target and prevent Windows telemetry data transmissions.
 - **Privacy Enhancement:** Designed to bolster user privacy, this script curtails data-sharing functionalities embedded within the Windows (10 & 11) operating system.
@@ -48,6 +49,7 @@ This script provides an effective solution to enhance user privacy by blocking W
 Este script proporciona una solución efectiva para mejorar la privacidad del usuario bloqueando la telemetría de Windows mediante la aplicación de reglas de firewall personalizadas. Con el objetivo de empoderar a los usuarios con un mayor control sobre las capacidades de intercambio de datos de su sistema, esta herramienta mitiga las transmisiones no deseadas de telemetría.
 
 #### Características:
+- **No se requieren programas externos.**
 - **Bloqueo simple:** Logra un bloqueo de la telemetría de Windows de manera simple con este script.
 - **Reglas de Firewall Personalizadas:** El script implementa reglas de firewall personalizadas diseñadas para apuntar y restringir las transmisiones de datos de telemetría de Windows de manera específica.
 - **Mejora de Privacidad:** Diseñado para fortalecer la privacidad del usuario, este script reduce las funcionalidades de intercambio de datos integradas en el sistema operativo Windows (10 y 11).
