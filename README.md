@@ -10,28 +10,19 @@
   <li><strong>Privacy Enhancement:</strong> Designed to bolster user privacy, this script curtails data-sharing functionalities embedded within the Windows operating system.</li>
 </ul>
 
-<h3>Usage Instructions:</h3>
-<ol>
-  <li><strong>Download the two files hosted at `~/Scripts/` </strong>
-    <ul>
-      <li>The two files you download must be in the same folder.</li>
-      <li>Make sure not to change the powershell file name.</li>
-    </ul>
-  </li>
+<h3>Usage Instructions:</h3> 
 
-  <li><strong>Run the Script:</strong>
-    <ul>
-      <li>Run the launcher.cmd which will open a command console with details of the actions you can do.</li>
-      <li>Make sure to run launcher.cmd as administrator.</li>
-      <li>Select "Y" to continue.</li>
-      <li>It will open a powershell terminal which will add all the rules.</li>
-    </ul>
-  </li>
+1. **Download the two files hosted at:** `~/Scripts/`
+   - The two files you download must be in the same folder.
+   - Make sure not to change the PowerShell file name.
 
-  <li><strong>Close all script windows</strong>
-    <ul>
-      <li>Once finished, close powershell and cmd, and you are all set.</li>
-      <li>No reboot is necessary, changes are applied immediately.</li>
-    </ul>
-  </li>
-</ol>
+2. **Run the Script:**
+   - Run the `launcher.cmd` which will open a command console with details of the actions you can do.
+   - Make sure to run `launcher.cmd` as an administrator.
+   - Select `Y` to continue.
+   - It will open a PowerShell terminal which will add all the rules.
+
+3. **Close all script windows:**
+   - Once finished, close PowerShell and CMD, and you are all set.
+   - No reboot is necessary; changes are applied immediately.
+
