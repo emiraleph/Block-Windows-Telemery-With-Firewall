@@ -30,6 +30,14 @@ This script provides an effective solution to enhance user privacy by blocking W
    - Once finished, close PowerShell and CMD, and you are all set.
    - No reboot is necessary; changes are applied immediately.
 
+## How to reverse the changes?
+
+   - Open the firewall and go to the `Advanced settings` section on the left.
+   - In that section go to `OutBound rules` and use the `Action` filter (may need to stretch the window to see all the options).
+   - When filtering you will see all the rules that start with `telemetry_` select all or the one you want to delete by pressing `shift + up or down arrows` to select multiple items.
+   - **_MAKE SURE TO REMOVE ONLY THE RULES THAT HAVE BEEN CREATED WITH SCRIPT_**
+   - Click on the delete button on the right, or `Supr / Delete` and confirm in the dialog box the deletion of the rule(s).
+
 ---
 
 ### SPANISH:
@@ -59,6 +67,13 @@ Este script proporciona una solución efectiva para mejorar la privacidad del us
 3. **_Cierra todas las ventanas del script:_**
    - Una vez finalizado, cierra PowerShell y CMD, y estarás listo.
    - No es necesario reiniciar; los cambios se aplican de inmediato.
+
+  ## ¿Cómo revertir los cambios?
+  - Abre el firewall y dirigete a la sección de la izquierda `Ajustes avanzados`
+  - En dicha sección dirigete a `OutBound rules` y usa el filtro de `Action` (Puede que sea necesario estirar la ventana para ver todas las opciones).
+  - Al filtrar verás todas las reglas que inician con `telemetry_` selecciona todas o la que desees eliminar presionando `shift + las flechas arriba o abajo` para seleccionar varios items.
+  - **_ASEGURATE DE ELIMINAR SOLAMENTE LAS RULES QUE HAN SIDO CREADAS CON EL SCRIPT_**
+  - Presiona en el boton eliminar de la derecha, o `Suprimir` y confirma en el cuadro de dialogo la eliminación de la(s) relga(s).
 
 ---
 
